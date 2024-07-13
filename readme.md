@@ -2,16 +2,27 @@
 ## 环境需求
 本文以Ubuntu 22.04.4 LTS为基础环境。在开始前，先运行sudo apt update更新系统组件。在此系统上安装部署了以太坊环境，
 具体的实验配置及版本如下：
-Name	Version
-Node.js	20.15.1
-geth	1.14.7-stable
+
+Name	Version 
+
+Node.js	20.15.1 
+
+geth	1.14.7-stable 
+
 Go 	1.22.5
+
 Yarn	1.22.22
+
 Ganache	2.7.1
+
 Truffle	5.11.5
+
 MetaMask	11.12.2
+
 Solidity	0.5.16
+
 Web3.js 	1.10.0
+
 ## 后端
 > 目录介绍
 ```
